@@ -1,0 +1,17 @@
+{
+  "name": "super-ai-hub",
+  "version": "1.0.0",
+  "description": "Autonomous Multi-Agent AI Hub — 3 specialist AIs (Architect, Designer, Marketer) chatting live.",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'This project runs on Zo Space. See https://zo.space'"
+  },
+  "dependencies": {
+    "hono": "^4",
+    "react": "^18",
+    "react-dom": "^18",
+    "lucide-react": "latest"
+  },
+  "keywords": ["ai", "multi-agent", "chat", "zo-space"],
+  "license": "MIT"
+}
